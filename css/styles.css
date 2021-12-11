@@ -1,0 +1,422 @@
+.header{
+    width: 100%;
+    min-width: 960px;
+    background-color: #7dd9e8;
+}
+.logo{
+    margin: 17px 0 21px;
+    float: left;
+    width: 223px;
+}
+.search-wrap{
+    /* width:334px; */
+    margin: 30px 24px;
+    float: left;
+}
+.search-clr{
+    /* width: 245px; */
+    float: left;
+}
+.search-box input{
+    height:25px;
+    width:250px;
+    font-size:12px;
+    border: none;
+    border-top-left-radius:14px;
+    border-top-right-radius:14px ;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius:14px ;
+}
+
+.search-box button{
+    float: right;
+    padding: 4px;
+    height: 25px;
+    background: white;
+    border: none;
+    border-top-left-radius:14px;
+    border-top-right-radius:14px ;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius:14px ;
+    
+}
+.search-btn{
+    float:right;
+    width: 75px;
+    height: 25.7px;
+    margin-left: 10px;
+    border-top-left-radius:14px;
+    border-top-right-radius:14px ;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius:14px ;
+}
+.search-btn input{
+    width: 100%;
+    border: none;
+    background: #225256;
+
+
+}
+
+
+
+.options{ 
+    /* width: 250px; */
+    float: right;
+    margin: 15px 0;
+} 
+.name{
+    float: right;
+    
+}
+.menu ul{
+    margin-top: 7px;
+    float:right ;
+    clear: both;
+    list-style: none;    
+}
+.menu ul li{
+    float: left;
+    padding: 3px;
+    font-weight: bold;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;   
+} 
+
+
+
+.navbar{
+   background-color: #f5f5f5;
+   width: 100%;
+   height: 40px;
+   display: inline-block;
+  
+}
+.nav-center{
+    /* background-color: red; */
+    height: 19px;
+    margin-top: 10px; 
+}
+.nav-choose{
+    /* background-color:darkgreen; */
+    /* width: 485px; */
+    float: left;
+}
+
+.nav-choose a{ 
+    text-decoration: none;
+    color: black;
+    padding: 6px;
+    font-size: 14px;
+}   
+
+.notification{
+   /* background-color:yellow; */
+   width:271px; 
+   height: 19px; 
+   float: right;
+}
+.friendrq{
+    width:116px ;
+    height: 100%;
+    /* background-color: darkorchid; */
+    float: right;
+}
+.rq-icon{
+    width: 17px;
+    height: 19px;
+    /* background-color: deeppink; */
+    float: left;
+
+}
+.rq-notifier{
+    font-size:11px;
+    float:right;
+    font-weight: bold;
+    padding-top: 4px;
+}
+.invitation{
+    width: 135px;
+    height: 19px;
+    /* background-color: forestgreen; */
+}
+.invt-icon{
+    width: 17px;
+    height: 19px;
+    /* background-color: deeppink; */
+    float: left;
+}
+.invt-notifier{
+    font-size:11px;
+    float:right;
+    font-weight: bold;
+    padding-top: 4px;
+
+}
+
+
+
+
+
+.content{
+    /* x:663px; */
+    background-color:plum;
+    margin-top: 29px;
+}
+.col1{
+    width:743px;
+    /* height:663px; */
+    /* background-color:red; */
+    float: left;
+}
+.clum1{
+    width:198px;
+    height:663px;
+    background-color:#f5f5f5 ;
+    float: left;
+}
+.r-search{
+    /* height:42px; */
+    background-color: #30c3d7;
+    color: cornsilk;
+    margin: auto;
+}
+.r-search h3{
+    font-weight: normal;
+    padding: 13px;
+    font-size: 16px;
+}
+
+
+ 
+.nick{
+    width: 100%;
+    /* height: 26px; */
+    /* background-color: crimson; */
+}
+.nick1{
+    width: 140px;
+    /* background-color: darkolivegreen; */
+    font-size: 13px;
+    font-weight: normal;
+    float: left;
+    padding: 10px;
+}
+.arrow-icon{
+    width:12px ;
+    /* height:12px ; */
+    /* background-color: black; */
+    float: right;
+    padding: 11px;
+    cursor: pointer;
+}
+
+
+
+
+
+.bar-icon{
+    width:12px ;
+    /* height:12px ; */
+    /* background-color: black; */
+    float: right;
+    padding: 11px;
+    cursor: pointer;
+}
+.version1{
+    width: 140px;
+    /* background-color: darkolivegreen; */
+    font-size: 13px;
+    font-weight: normal;
+    float: left;
+    padding: 10px;
+}
+
+
+.clum2{
+    width: 519px;
+    /* height: 661px; */
+    /* background-color:green; */
+    float: right;
+}
+.entry h3{
+    font-weight: 500;
+    font-size: 25px;
+}
+.entry-box{
+    /* background-color: #f5f5f5; */
+    margin-top:12px
+}
+.allentry{
+    width: 258px;
+    background-color: #f8f8f8; 
+    float: left;
+    border-top-left-radius:16px;
+}
+.entry-text{
+
+    margin: 12px auto;
+    width: 100px;
+
+}
+.subs{
+    width:258px;
+    background-color:#f8f8f8; 
+    float: right;
+    border-top-right-radius:16px;
+}
+.clum2-menu{
+    /* height: 32px; */
+    background-color:#f5f5f5;
+    margin-top: 1px;
+}
+.clum2-menuinnr{
+    width:490px;
+    height:28px; 
+    /* background-color: khaki;  */
+    margin-left: 11px;
+    margin-right: 19px;
+}
+.membr{
+    width:238px ;
+    height: 28px;
+    /* background-color: black; */
+    float: left;
+}
+.new{
+    width: 238px;
+    height: 28px;
+    /* background-color: cadetblue; */
+    float: right;
+}
+.membr-box{
+    width:114px;
+    height: 28px;
+    background-color: #37bdda;
+    float: left;
+    border-top-left-radius:16px;
+    border-top-right-radius:16px ;
+}
+.ent-box{
+    width: 114px;
+    height: 28px;
+    background-color:#e4e4e4;
+    float: right;
+    border-top-left-radius:16px;
+    border-top-right-radius:16px ;
+}
+.en-box{
+    width:114px;
+    height: 28px;
+    background-color:#e4e4e4;
+    float: left;
+    border-top-left-radius:16px;
+    border-top-right-radius:16px ;
+}
+.menu-text{
+  font-size: 13px;
+    font-weight:600;
+    width: 100px;
+    margin:9px 21px; 
+    color:#f5f5f5;
+    cursor: pointer;
+}
+.frn-text{
+  font-size: 13px;
+  font-weight :600;
+  width: 100px;
+  margin:9px 32px  auto;
+  color: #2b2b2b;
+  cursor: pointer;
+}
+.com-text{
+  font-size: 13px;
+  font-weight:600;
+  width: 100px;
+  margin:9px 21px 0 10px;
+    
+      
+}
+
+.menu-line{
+   height:3px; 
+   background-color:#9dccd2;
+}
+    
+
+
+
+.blog-post-container{ 
+ height: 559px;
+ background-color: darkolivegreen; 
+}
+.blog{
+  height: 106px;
+  background-color: royalblue;
+}
+.blog-inner{
+  width:100%; 
+  height: 71px;
+  background-color:black;
+  display:inline-block; 
+  margin-top: 14px;
+}
+ .prfl-img{
+  width: 70px;
+  height: 70px;
+  background-color: silver;  
+  float: left;
+} 
+.newentry-blog{
+  height: 116px;
+  background-color: salmon;
+}
+.blog-text{
+  width: 424px;
+  height: 18px;
+  background-color: brown;
+  padding: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+     
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
